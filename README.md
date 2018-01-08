@@ -2,7 +2,7 @@
 System blob tracking for processing / Sistema de seguimiento de objetos para Processing
 
 # Uso
-```pde
+```[pde]
 /*
 Ejemplo que utiliza la librería ABlobSystem que depende de OpenCV for processing
 y kinect
